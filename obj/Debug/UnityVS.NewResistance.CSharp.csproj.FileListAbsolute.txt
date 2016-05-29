@@ -1,0 +1,15 @@
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\Photon3Unity3D.dll
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\Photon3Unity3D.pdb
+C:\Users\sane\Desktop\DG\NewResistance\Temp\UnityVS_bin\Debug\Photon3Unity3D.xml
+C:\Users\sane\Desktop\DG\NewResistance\obj\Debug\UnityVS.NewResistance.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\sane\Desktop\DG\NewResistance\obj\Debug\Assembly-CSharp.dll
+C:\Users\sane\Desktop\DG\NewResistance\obj\Debug\Assembly-CSharp.pdb
